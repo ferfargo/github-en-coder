@@ -6,3 +6,7 @@
 p{
     color: blue;
 }
+h2{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
